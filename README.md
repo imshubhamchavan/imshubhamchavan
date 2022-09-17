@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imshubhamchavan
+- 👋 Hi, I’m shubham chavan
 - 👀 I’m interested in web designing
 - 🌱 I’m currently learning angular js
 - 💞️ I’m looking to collaborate on ...
