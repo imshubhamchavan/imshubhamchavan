@@ -1,6 +1,6 @@
 - 👋 Hi, I’m shubham chavan
 - 👀 I’m interested in web designing
-- 🌱 I’m currently learning angular js
+- 🌱 I’m currently learning Next.js and figma
 - 💞️ I’m looking to collaborate on ...
 - 📫 imshubhamchavan@gmail.com
 
