@@ -8,7 +8,7 @@ I am a frontend developer who loves react!
 
 * 🌍  I'm based in pune, INDIA
 * ✉️  You can contact me at [imshubhamchavan@gmail.com](mailto:imshubhamchavan@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Next.js & Rust
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am Batman, Tell Everyone
 
