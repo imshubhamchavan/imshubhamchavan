@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Frontend Developer
 ------------------
-![1682341535048](https://github.com/imshubhamchavan/imshubhamchavan/assets/112066597/7e06fa0e-514f-4778-be83-dd29c819be7c)
+![github banner](https://github.com/imshubhamchavan/imshubhamchavan/assets/112066597/da37ff30-ce40-4b49-a737-763cd4016813)
 
 I am a frontend developer who loves react!
 
